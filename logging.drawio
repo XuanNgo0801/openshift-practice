@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-12T10:52:52.431Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="GFBYdyWJPuICdlww5Mi9" version="21.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-12T10:57:11.005Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="mBkX3sxJGdRpqBOE56_7" version="21.6.9" type="github">
   <diagram name="Trang-1" id="GgKC1_RRbMMt9X9RvhVU">
     <mxGraphModel dx="1050" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -17,13 +17,10 @@
           <mxGeometry x="70" y="718" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mRAGLZKaXaNuD00MnWvR-4" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.invicti.com/statics/img/techdoc/company-logos/splunk-logo.png;" parent="1" vertex="1">
-          <mxGeometry x="840" y="310" width="108" height="60.59" as="geometry" />
+          <mxGeometry x="820" y="440" width="108" height="60.59" as="geometry" />
         </mxCell>
         <mxCell id="mRAGLZKaXaNuD00MnWvR-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="30" y="210" width="640" height="480" as="geometry" />
-        </mxCell>
-        <mxCell id="mRAGLZKaXaNuD00MnWvR-7" value="OCP node-ocpprod01" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="480" y="660" width="135" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mRAGLZKaXaNuD00MnWvR-8" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/generic_node.svg;" parent="1" vertex="1">
           <mxGeometry x="50" y="270" width="50" height="49" as="geometry" />
@@ -56,10 +53,15 @@
           <mxGeometry x="490" y="336.09" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mRAGLZKaXaNuD00MnWvR-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="mRAGLZKaXaNuD00MnWvR-22" target="mRAGLZKaXaNuD00MnWvR-4" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="760" y="540" />
+              <mxPoint x="760" y="470" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="mRAGLZKaXaNuD00MnWvR-22" value="Cluster Log Forwarder" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="530" y="510" width="120" height="60" as="geometry" />
+          <mxGeometry x="430" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mRAGLZKaXaNuD00MnWvR-24" value="Log" style="html=1;whiteSpace=wrap;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;sketch=0;shape=mxgraph.sitemap.log;" parent="1" vertex="1">
           <mxGeometry x="50" y="390" width="50" height="40" as="geometry" />
@@ -133,18 +135,14 @@
             <mxPoint x="205" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G7AkkxvC6R_xDLnnkFi--3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mRAGLZKaXaNuD00MnWvR-28" target="mRAGLZKaXaNuD00MnWvR-22">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="530" y="540" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="G7AkkxvC6R_xDLnnkFi--13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mRAGLZKaXaNuD00MnWvR-28" target="mRAGLZKaXaNuD00MnWvR-22">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mRAGLZKaXaNuD00MnWvR-28" value="Vector Collector" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="145" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="G7AkkxvC6R_xDLnnkFi--4" value="Loki Stack" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="610" width="120" height="60" as="geometry" />
+          <mxGeometry x="430" y="610" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="G7AkkxvC6R_xDLnnkFi--6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mRAGLZKaXaNuD00MnWvR-28" target="G7AkkxvC6R_xDLnnkFi--4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -166,6 +164,12 @@
         </mxCell>
         <mxCell id="G7AkkxvC6R_xDLnnkFi--10" value="Infrastructure Log" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="490" y="275" width="115" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G7AkkxvC6R_xDLnnkFi--12" value="Audit Log" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="590" y="510" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G7AkkxvC6R_xDLnnkFi--14" value="Application Log, Infrastructure Log" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="265" y="610" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
