@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-12T10:58:33.554Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="9mz1Fvv6LIVUOHbury3C" version="21.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-12T10:59:09.901Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="_fXJ04M2t0iRMNV8ztmD" version="21.6.9" type="github">
   <diagram name="Trang-1" id="GgKC1_RRbMMt9X9RvhVU">
     <mxGraphModel dx="1050" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -11,7 +11,7 @@
           <mxGeometry x="10" y="80" width="970" height="970" as="geometry" />
         </mxCell>
         <mxCell id="mRAGLZKaXaNuD00MnWvR-3" value="RED HAT&lt;br&gt;Openshift Container Platform" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="70" y="718" width="130" height="30" as="geometry" />
+          <mxGeometry x="120" y="740" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mRAGLZKaXaNuD00MnWvR-4" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.invicti.com/statics/img/techdoc/company-logos/splunk-logo.png;" parent="1" vertex="1">
           <mxGeometry x="820" y="440" width="108" height="60.59" as="geometry" />
