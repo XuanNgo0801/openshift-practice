@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-12T04:06:29.555Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="ldmZ21W1YCkpjvZGY4SM" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-12T04:27:36.362Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="iRN8ABIYafKFhJkIL9HW" version="22.0.4" type="github">
   <diagram name="Trang-1" id="Dytu22fN1VD10oCp0d1P">
     <mxGraphModel dx="1434" dy="798" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -98,7 +98,7 @@
         <mxCell id="n5SP7K5pTemmhCcpg1W_-9" value="Secured Cluster services" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="733" y="293" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="n5SP7K5pTemmhCcpg1W_-10" value="Scanner" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="n5SP7K5pTemmhCcpg1W_-10" value="Scanner-slim" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="711" y="401" width="73" height="60" as="geometry" />
         </mxCell>
       </root>
